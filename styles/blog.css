@@ -3,3 +3,8 @@ div {
     padding: 40px;
     margin: 10px;
 }
+.pic{
+    background-size: contain;
+    height: 500px;
+    width: 500px;
+}
